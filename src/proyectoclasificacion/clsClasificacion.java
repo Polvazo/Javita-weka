@@ -38,6 +38,8 @@ public class clsClasificacion {
         System.out.println("paso por aqui"+train.classAttribute().value((int)predicted));
         return String.valueOf(predicted);
     }
+    
+     
 }
 
 
